@@ -1,0 +1,61 @@
+
+li{
+    color: black;
+    display: inline;
+    padding-left: 10px;   
+}
+#white:hover{
+    color:cornflowerblue
+}
+.navBar{
+background-color: black;
+padding-left: 750px;
+height: 100%;
+overflow: hidden;
+}
+a{
+    color: aliceblue;
+}
+img{
+    /* border-radius: 50px; */
+    /* display: flex; */
+    /* flex-direction: row; */
+    display:inline;
+    padding-left: 40%;
+}
+.Me{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 90px;
+    
+}
+h1{
+    text-align: center;
+}
+h3{
+ text-align:center;
+    /* padding: 50px 190px 50px 190px; */
+}
+.Edu{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+align-items: center;
+
+}
+.children{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+        text-align: center;
+        align-items: stretch;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+        
+}
